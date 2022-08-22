@@ -55,7 +55,8 @@ public class tandh {
         });
 
 
-//        Thread
+        System.out.println("随便加点什么打印内容，试试");
+
 
         //退出和关闭，在最后
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
