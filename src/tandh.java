@@ -55,12 +55,6 @@ public class tandh {
         });
 
 
-        System.out.println("随便加点什么打印内容，试试");
-        System.out.println("再次加点什么打印内容，试试");
-        System.out.println("第三次加点什么打印内容，试试");
-
-        System.out.println("第4次加点什么打印内容，试试");
-        System.out.println("第5次加点什么打印内容，试试");
 
 
 
