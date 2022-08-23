@@ -131,14 +131,6 @@ public class tandh {
         });
 
 
-
-
-
-
-
-
-
-
         //退出和关闭，在最后
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         //设置窗口显示  visible
