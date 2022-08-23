@@ -1,3 +1,5 @@
+package com.other_;
+
 /**
  * @Author iVan@admin
  * @Version
